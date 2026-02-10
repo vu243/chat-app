@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/vu243/ChatApp.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vu243/ChatAppFrontend.git
